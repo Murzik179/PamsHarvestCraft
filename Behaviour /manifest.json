@@ -3,14 +3,14 @@
   "header": {
     "name": "Pam's HarvestCraft"
     "description": "pack.description",
-    "uuid": "",
+    "uuid": "0cd3a1b5-04e4-4dc0-94c5-5427fd1d2529",
     "version": [0, 1, 0],
     "min_engine_version": "1.17.41",
   },
   "modules": [
     {
       "type": "data",
-      "uuid": "",
+      "uuid": "add3481f-f526-4cad-8d11-9404040dee84",
       "version": [0, 1, 0]
     }
   ]
